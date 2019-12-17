@@ -47,4 +47,8 @@
   #navbar nav a {
     font-size: 0.9em;
   }
+  .border-right {
+    border: 0;
+  }
+  
 }
