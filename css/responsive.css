@@ -38,6 +38,8 @@
 
 @media only screen (max-width: 750px) {
   
-  #navbar nav s 
-  
+  #navbar nav a {
+    font-size: 0.9em;
+    
+  }
 }
