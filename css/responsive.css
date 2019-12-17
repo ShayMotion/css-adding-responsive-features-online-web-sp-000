@@ -41,7 +41,12 @@
 }
 
 @media only screen (max-width: 750px) {
-  .col, .col-2, .col-3;
+  .col, .col-2, .col-3; {
+    width: 100%
+    margin-left: 0;
+    
+    float: none;
+    
   #navbar nav a {
     font-size: 0.9em;
   }
